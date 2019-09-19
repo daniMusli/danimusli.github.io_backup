@@ -1,0 +1,52 @@
+# Site
+repository: daniMusli/danimusli.github.io
+
+# Personal info
+name: Abdullah Mousselli
+title: Computer Engineer
+email: abdullah.mousselli@gmail.com
+
+# Social links
+github_username:  daniMusli
+facebook_username: abdallahmousselli201bk
+instagram_username: abdallahmousselli
+linkedin_username: abdullahmousselli
+
+# About Section
+about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Abdullah and I'm a jumior web and app developer. I also have experience working on Data Analysis and Machine Learning . I have had multiple internship experience gaining teamwork and socializing skills.
+
+  I am most skilled in: <mark>JavaScript</mark> and <mark>Python</mark>
+  <br><br> <b>Languages :</b> &nbsp; &nbsp; &nbsp; <mark>English &starf; &starf; &starf; &starf; &starf;</mark> <mark>Arabic &starf; &starf; &starf; &starf; &starf;</mark> <mark>Turkish &starf; &starf; &starf; &starf; &starf;</mark> <mark>Japanese &starf; &starf; &star; &star; &star;</mark>
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+   - Reading japanese manga
+   - Gaming
+   - Playing and watching basketball 
+   - Traveling
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag

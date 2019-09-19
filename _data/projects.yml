@@ -1,0 +1,29 @@
+- layout: top-middle
+  name: Autonomous Robot Car (Final year project 1) 
+  link: https://drive.google.com/open?id=19P19Hmr-ROvRyAzbFg3MOYkEDxCRnBc4
+  quote: >
+    <mark>Raspberry Pi</mark> <mark>Python</mark> <mark>openCV</mark> <mark>TensorFlow</mark>
+  description: | # this will include new lines to allow paragraphs
+    A self driving car that is trained to detect and follow objects . A review of the project is provided in the link above. 
+    
+    
+- layout: top-middle
+  name: IOT MPPT system (Final Year Project 2)
+  quote: >
+    <mark>Arduino Uno</mark> 
+  description: | # this will include new lines to allow paragraphs
+    In this project we designed a system that can optimize the energy use of a solar tracking system as well as monitoring the 
+    changes thought the year by uploading the reads to a cloud server and automatically drwing graphic accordingly 
+    this project took secomd place at Ataturk university 2019 project competition certificates can be provided when needed.
+    
+- layout: top-middle
+  description: | # this will include new lines to allow paragraphs
+   to view some of the projects that i worked on Please feel free to visit my github page as i have projects covering topics such as 
+   <mark>Parallel Programming</mark> <mark>Web Apps And Web APIs developing</mark> <mark>graphic Design</mark> <mark>Multithreading</mark> 
+   and many more.
+   
+ 
+    
+   
+   
+  
