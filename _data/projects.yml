@@ -18,12 +18,10 @@
     
 - layout: top-middle
   description: | # this will include new lines to allow paragraphs
-   to view some of the projects that i worked on Please feel free to visit my github page as i have projects covering topics such as 
+   to view some of the projects that i worked on Please feel free to visit my <a href="https://github.com/daniMusli">  github page</a>  as i have projects covering topics such as 
    <mark>Parallel Programming</mark> <mark>Web Apps And Web APIs developing</mark> <mark>graphic Design</mark> <mark>Multithreading</mark> 
    and many more.
    
  
-    
-   
    
   
